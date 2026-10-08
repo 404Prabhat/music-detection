@@ -1,0 +1,49 @@
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+out/
+*.o
+*.a
+*.so
+*.class
+target/
+
+# Temp
+tmp/
+temp/
+.cache/
